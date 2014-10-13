@@ -1,0 +1,75 @@
+body {
+	background-color: #334D64; /*http://www.colorschemer.com/schemes/viewscheme.php?id=635 */
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+a {
+	color: #FFAEB9;
+	text-decoration: underline;
+	hover: {text-decoration: underline overline;}
+}
+
+.textinput {    /*style for input boxes on forms */
+	margin-bottom: 1.5em;
+	width: 50%;
+	color: #666;
+	background-color: #ccc;
+	}
+
+
+/* form {
+	background-color: #781428;
+	color: #FFAEB9; 
+}
+.solo {
+	background-color: #FFCC99;
+	color: #990066;
+	  }
+	  */
+
+h1 { font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 32px; color: #FFAEB9 }
+h2 { font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 24px; color: #FFAEB9 }
+h3 { font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 18px; color: #FFAEB9 }
+h3 { font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 14px; color: #FFAEB9 }
+
+dashboard_link { 
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-size: 14px; 
+	color: #781428
+	text-decoration: underline; }
+
+hr{ color:FFAEB9; width:95%; height:2px; } 
+
+table { 
+  font-family: arial; 
+  font-size:14px; 
+  color: #FFAEB9;
+} 
+th { 
+  background-color: #FFFFFF; 
+} 
+td {  
+} 
+
+.user_account_error_msg {
+  font-family: arial; 
+  font-size:18px; 
+  color: #FF0000;
+} 	
+
+li {margin: .2em 0}
+
+
+
+
+
+
+
+
+
+
+
+

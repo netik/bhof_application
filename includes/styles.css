@@ -1,0 +1,85 @@
+/* New colors for 2013, from http://blog.crazyegg.com/2011/12/30/pick-website-color-combination/
+	baby blue main background: b6d2d5
+	lighter light blue highlight 30% color for boxes: e9f2f1
+	green accent splash: 57cd79
+	pink highlight: fa1e64
+	dark blue for writing: 056fab
+	almost black for headers: 232929
+*/
+
+
+body {
+	background-color: #b6d2d5;
+	/* used in 2012: background-color: #334D64; /*http://www.colorschemer.com/schemes/viewscheme.php?id=635 */
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	color: #056fab;
+	padding: 10px;
+}
+
+a {
+	color: #232929;
+	text-decoration: underline;
+	hover: {text-decoration: underline overline;}
+}
+
+.textinput {    /*style for input boxes on forms */
+	margin-bottom: 1.5em;
+	width: 50%;
+	color: #666;
+	background-color: #ccc;
+	}
+
+
+/* form {
+	background-color: #781428;
+	color: #FFAEB9; 
+}
+.solo {
+	background-color: #FFCC99;
+	color: #990066;
+	  }
+	  */
+
+h1 { font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 32px; color: #056fab }
+h2 { font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 24px; color: #056fab }
+h3 { font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 18px; color: #056fab }
+h3 { font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 14px; color: #056fab }
+
+.highlight {color: #fa1e64;}
+.boxhighlight {  /*This is the box on the main front page */
+	background-color: #e9f2f1;
+	width: 940px;
+	padding: 15px;
+	box-shadow: 7px 7px 5px #888888;
+}
+.rulepageheaders {color: #232939;}
+.navlinks {font-size: 11px;}
+
+dashboard_link { 
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-size: 14px; 
+	color: #232929
+	text-decoration: underline; }
+
+hr{ color:FFAEB9; width:95%; height:2px; } 
+
+table { 
+  font-family: arial; 
+  font-size:14px; 
+  color: #056fab;
+} 
+th { 
+  background-color: #e9f2f1; 
+} 
+td {  
+} 
+
+.user_account_error_msg {
+  font-family: arial; 
+  font-size:18px; 
+  color: #FF0000;
+} 	
+
+li {margin: .2em 0}
